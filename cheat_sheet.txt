@@ -9,3 +9,12 @@ git <command>
 ```
 
 ## 概要
+
+----------
+# diff
+
+```
+git diff <options>
+```
+
+## 変更の差分を表示します。
